@@ -20,8 +20,6 @@ function App() {
     setNombre(nombreRef.current.value); //cambia el condenido de nombre conforme se va escribiendo en el input 
   }
 
-
-
   return (
     <div className="App">
         <h1>Guardemos tu nombre en el localStorage!</h1>
