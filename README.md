@@ -12,5 +12,5 @@ Hola en este repo encontraras la implementación básica de una Stateful App en 
 Así luce la aplicación:
 ![alt text](https://github.com/Dona0w0/stateful-app/blob/main/SS.png)
 
-Y asi funciona:<br />
+Y así funciona:<br />
 ![image](https://github.com/Dona0w0/stateful-app/blob/main/preview.gif)
