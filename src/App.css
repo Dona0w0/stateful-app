@@ -1,4 +1,44 @@
-#App{align-content: center;}
-form{
+html{
+   background-color: #93B5C6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.App{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color:#EEC4C4;
+  margin: 12vw;
+  padding: 60px;
+  border-radius: 20px;
+
+}
+h1{
   margin: 30px;
+  text-align: center;
+  color: #11324D;
+}
+
+
+.inputSpace{
+  margin: 30px;
+}
+
+label{
+  color: #11324D;
+}
+input {
+  height:30px;
+  width:  250px;
+  border: none;
+  background: #D1D9D9;
+}
+
+p{
+  margin: 30px;
+  color: #11324D;
 }
