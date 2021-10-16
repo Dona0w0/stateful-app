@@ -1,6 +1,6 @@
 # stateful-app
 
-1. Una app web por default es _stateles_.
+1. Una app web por default es _stateless_.
 2. Todos aquellos eventos que el usuario no comienza, se consideran _ f _ _ _ _ _   _ _ _ _ _ _ a _ _ _ _.
 3. Para controlar dichos eventos _ _ _ _ _ _ a _ _ _ _ se utiliza _ _ _ _ f f _ _ _.
 4. Algunas maneras de persistir información son: bases de datos y _Localstorage_.
